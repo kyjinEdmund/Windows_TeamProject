@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Diagram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA8E389-1D76-48E6-8B38-EBEC9338F3AF}|RoundedRactangle\\RoundedRactangle.csproj|c:\\users\\pctla\\desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\diagram\\roundedractangle\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA8E389-1D76-48E6-8B38-EBEC9338F3AF}|RoundedRactangle\\RoundedRactangle.csproj|solutionrelative:roundedractangle\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA8E389-1D76-48E6-8B38-EBEC9338F3AF}|RoundedRactangle\\RoundedRactangle.csproj|c:\\users\\pctla\\desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\diagram\\roundedractangle\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDA8E389-1D76-48E6-8B38-EBEC9338F3AF}|RoundedRactangle\\RoundedRactangle.csproj|solutionrelative:roundedractangle\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1CCE04-0ACD-4F79-9F45-FEC7B7BB680E}|Parallelogram\\Parallelogram.csproj|c:\\users\\pctla\\desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\diagram\\parallelogram\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD1CCE04-0ACD-4F79-9F45-FEC7B7BB680E}|Parallelogram\\Parallelogram.csproj|solutionrelative:parallelogram\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EE020D-3CBA-495D-A1B2-47AF1D91C947}|Diamond\\Diamond.csproj|c:\\users\\pctla\\desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\diagram\\diamond\\diamond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32EE020D-3CBA-495D-A1B2-47AF1D91C947}|Diamond\\Diamond.csproj|solutionrelative:diamond\\diamond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2559593-2EBC-4FE4-A51C-8936D5226039}|Ractangle\\Ractangle.csproj|c:\\users\\pctla\\desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\diagram\\ractangle\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2559593-2EBC-4FE4-A51C-8936D5226039}|Ractangle\\Ractangle.csproj|solutionrelative:ractangle\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C2B72A-5BB1-4A28-9193-A6B8989DC96E}|Diagram\\Diagram.csproj|c:\\users\\pctla\\desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\diagram\\diagram\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00C2B72A-5BB1-4A28-9193-A6B8989DC96E}|Diagram\\Diagram.csproj|solutionrelative:diagram\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Diagram\\RoundedRactangle\\UserControl1.cs",
+              "RelativeDocumentMoniker": "RoundedRactangle\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Diagram\\RoundedRactangle\\UserControl1.cs",
+              "RelativeToolTip": "RoundedRactangle\\UserControl1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T05:38:11.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Diagram\\RoundedRactangle\\UserControl1.cs",
+              "RelativeDocumentMoniker": "RoundedRactangle\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Diagram\\RoundedRactangle\\UserControl1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "RoundedRactangle\\UserControl1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T05:35:59.122Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControl1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Diagram\\Parallelogram\\UserControl1.cs",
+              "RelativeDocumentMoniker": "Parallelogram\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Diagram\\Parallelogram\\UserControl1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Parallelogram\\UserControl1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T05:35:43.493Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Diamond.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Diagram\\Diamond\\Diamond.cs",
+              "RelativeDocumentMoniker": "Diamond\\Diamond.cs",
+              "ToolTip": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Diagram\\Diamond\\Diamond.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Diamond\\Diamond.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T05:35:08.367Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserControl1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Diagram\\Ractangle\\UserControl1.cs",
+              "RelativeDocumentMoniker": "Ractangle\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Diagram\\Ractangle\\UserControl1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Ractangle\\UserControl1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T05:34:46.899Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserControl1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Diagram\\Diagram\\UserControl1.cs",
+              "RelativeDocumentMoniker": "Diagram\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Diagram\\Diagram\\UserControl1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Diagram\\UserControl1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T05:30:53.223Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

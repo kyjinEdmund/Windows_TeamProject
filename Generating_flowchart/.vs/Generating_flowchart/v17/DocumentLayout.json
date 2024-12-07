@@ -3,7 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Generating_flowchart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8461B963-98BA-459F-BC50-342A0E4F41CD}|Generating_flowchart\\Generating_flowchart.csproj|c:\\users\\pctla\\desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\generating_flowchart\\generating_flowchart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8461B963-98BA-459F-BC50-342A0E4F41CD}|Generating_flowchart\\Generating_flowchart.csproj|c:\\users\\pctla\\desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\generating_flowchart\\generating_flowchart\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8461B963-98BA-459F-BC50-342A0E4F41CD}|Generating_flowchart\\Generating_flowchart.csproj|solutionrelative:generating_flowchart\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8461B963-98BA-459F-BC50-342A0E4F41CD}|Generating_flowchart\\Generating_flowchart.csproj|C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Generating_flowchart\\generating_flowchart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8461B963-98BA-459F-BC50-342A0E4F41CD}|Generating_flowchart\\Generating_flowchart.csproj|solutionrelative:generating_flowchart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8461B963-98BA-459F-BC50-342A0E4F41CD}|Generating_flowchart\\Generating_flowchart.csproj|c:\\users\\pctla\\desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\generating_flowchart\\generating_flowchart\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8461B963-98BA-459F-BC50-342A0E4F41CD}|Generating_flowchart\\Generating_flowchart.csproj|solutionrelative:generating_flowchart\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8461B963-98BA-459F-BC50-342A0E4F41CD}|Generating_flowchart\\Generating_flowchart.csproj|c:\\users\\pctla\\desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\generating_flowchart\\generating_flowchart\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8461B963-98BA-459F-BC50-342A0E4F41CD}|Generating_flowchart\\Generating_flowchart.csproj|solutionrelative:generating_flowchart\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8461B963-98BA-459F-BC50-342A0E4F41CD}|Generating_flowchart\\Generating_flowchart.csproj|c:\\users\\pctla\\desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\generating_flowchart\\generating_flowchart\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8461B963-98BA-459F-BC50-342A0E4F41CD}|Generating_flowchart\\Generating_flowchart.csproj|solutionrelative:generating_flowchart\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8461B963-98BA-459F-BC50-342A0E4F41CD}|Generating_flowchart\\Generating_flowchart.csproj|c:\\users\\pctla\\desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\generating_flowchart\\generating_flowchart\\circlebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8461B963-98BA-459F-BC50-342A0E4F41CD}|Generating_flowchart\\Generating_flowchart.csproj|solutionrelative:generating_flowchart\\circlebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8461B963-98BA-459F-BC50-342A0E4F41CD}|Generating_flowchart\\Generating_flowchart.csproj|c:\\users\\pctla\\desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\generating_flowchart\\generating_flowchart\\circlebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8461B963-98BA-459F-BC50-342A0E4F41CD}|Generating_flowchart\\Generating_flowchart.csproj|solutionrelative:generating_flowchart\\circlebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8461B963-98BA-459F-BC50-342A0E4F41CD}|Generating_flowchart\\Generating_flowchart.csproj|C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Generating_flowchart\\generating_flowchart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8461B963-98BA-459F-BC50-342A0E4F41CD}|Generating_flowchart\\Generating_flowchart.csproj|solutionrelative:generating_flowchart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -14,11 +42,100 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Generating_flowchart\\Generating_flowchart\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Generating_flowchart\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Generating_flowchart\\Generating_flowchart\\Form2.Designer.cs",
+              "RelativeToolTip": "Generating_flowchart\\Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T07:07:02.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Generating_flowchart\\Generating_flowchart\\Form2.cs",
+              "RelativeDocumentMoniker": "Generating_flowchart\\Form2.cs",
+              "ToolTip": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Generating_flowchart\\Generating_flowchart\\Form2.cs",
+              "RelativeToolTip": "Generating_flowchart\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T07:06:13.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Generating_flowchart\\Generating_flowchart\\Form2.cs",
+              "RelativeDocumentMoniker": "Generating_flowchart\\Form2.cs",
+              "ToolTip": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Generating_flowchart\\Generating_flowchart\\Form2.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Generating_flowchart\\Form2.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T07:06:09.854Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CircleButton.cs",
+              "DocumentMoniker": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Generating_flowchart\\Generating_flowchart\\CircleButton.cs",
+              "RelativeDocumentMoniker": "Generating_flowchart\\CircleButton.cs",
+              "ToolTip": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Generating_flowchart\\Generating_flowchart\\CircleButton.cs",
+              "RelativeToolTip": "Generating_flowchart\\CircleButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T06:59:29.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CircleButton.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Generating_flowchart\\Generating_flowchart\\CircleButton.cs",
+              "RelativeDocumentMoniker": "Generating_flowchart\\CircleButton.cs",
+              "ToolTip": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Generating_flowchart\\Generating_flowchart\\CircleButton.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Generating_flowchart\\CircleButton.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T06:59:04.147Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Generating_flowchart\\Generating_flowchart\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Generating_flowchart\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Generating_flowchart\\Generating_flowchart\\Form1.Designer.cs",
+              "RelativeToolTip": "Generating_flowchart\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T06:53:28.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Generating_flowchart\\Generating_flowchart\\Form1.cs",
+              "RelativeDocumentMoniker": "Generating_flowchart\\Form1.cs",
+              "ToolTip": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Generating_flowchart\\Generating_flowchart\\Form1.cs",
+              "RelativeToolTip": "Generating_flowchart\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADgvwkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T06:53:27.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Form1.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\Users\\pctla\\Desktop\\\uC624\uD508\uC18C\uC2A4\uACFC\uC81C\\Generating_flowchart\\Generating_flowchart\\Form1.cs",
               "RelativeDocumentMoniker": "Generating_flowchart\\Form1.cs",

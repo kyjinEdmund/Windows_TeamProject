@@ -28,9 +28,17 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // Ractangle
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Name = "Ractangle";
+            this.Size = new System.Drawing.Size(800, 450);
+            this.Load += new System.EventHandler(this.Ractangle_Load);
+            this.ResumeLayout(false);
+
         }
 
         #endregion

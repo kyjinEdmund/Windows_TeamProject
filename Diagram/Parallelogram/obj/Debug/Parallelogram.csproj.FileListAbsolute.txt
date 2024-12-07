@@ -1,0 +1,8 @@
+C:\Users\pctla\Desktop\오픈소스과제\Diagram\Parallelogram\obj\Debug\Parallelogram.csproj.AssemblyReference.cache
+C:\Users\pctla\Desktop\오픈소스과제\Diagram\Parallelogram\obj\Debug\Parallelogram.Parallelogram.resources
+C:\Users\pctla\Desktop\오픈소스과제\Diagram\Parallelogram\obj\Debug\Parallelogram.csproj.GenerateResource.cache
+C:\Users\pctla\Desktop\오픈소스과제\Diagram\Parallelogram\obj\Debug\Parallelogram.csproj.CoreCompileInputs.cache
+C:\Users\pctla\Desktop\오픈소스과제\Diagram\Parallelogram\bin\Debug\Parallelogram.dll
+C:\Users\pctla\Desktop\오픈소스과제\Diagram\Parallelogram\bin\Debug\Parallelogram.pdb
+C:\Users\pctla\Desktop\오픈소스과제\Diagram\Parallelogram\obj\Debug\Parallelogram.dll
+C:\Users\pctla\Desktop\오픈소스과제\Diagram\Parallelogram\obj\Debug\Parallelogram.pdb

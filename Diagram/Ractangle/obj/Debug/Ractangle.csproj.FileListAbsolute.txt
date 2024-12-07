@@ -1,0 +1,8 @@
+C:\Users\pctla\Desktop\오픈소스과제\Diagram\Ractangle\bin\Debug\Ractangle.dll
+C:\Users\pctla\Desktop\오픈소스과제\Diagram\Ractangle\bin\Debug\Ractangle.pdb
+C:\Users\pctla\Desktop\오픈소스과제\Diagram\Ractangle\obj\Debug\Ractangle.csproj.AssemblyReference.cache
+C:\Users\pctla\Desktop\오픈소스과제\Diagram\Ractangle\obj\Debug\Ractangle.Ractangle.resources
+C:\Users\pctla\Desktop\오픈소스과제\Diagram\Ractangle\obj\Debug\Ractangle.csproj.GenerateResource.cache
+C:\Users\pctla\Desktop\오픈소스과제\Diagram\Ractangle\obj\Debug\Ractangle.csproj.CoreCompileInputs.cache
+C:\Users\pctla\Desktop\오픈소스과제\Diagram\Ractangle\obj\Debug\Ractangle.dll
+C:\Users\pctla\Desktop\오픈소스과제\Diagram\Ractangle\obj\Debug\Ractangle.pdb

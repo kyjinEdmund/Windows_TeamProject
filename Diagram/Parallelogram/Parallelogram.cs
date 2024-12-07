@@ -91,7 +91,7 @@ namespace Parallelogram
             return path;
         }
 
-        private void UserControl1_Load(object sender, EventArgs e)
+        private void Parallelogram_Load(object sender, EventArgs e)
         {
 
         }

@@ -1,0 +1,8 @@
+C:\Users\pctla\Desktop\오픈소스과제\Diagram\Diamond\bin\Debug\Diamond.dll
+C:\Users\pctla\Desktop\오픈소스과제\Diagram\Diamond\bin\Debug\Diamond.pdb
+C:\Users\pctla\Desktop\오픈소스과제\Diagram\Diamond\obj\Debug\Diamond.csproj.AssemblyReference.cache
+C:\Users\pctla\Desktop\오픈소스과제\Diagram\Diamond\obj\Debug\Diamond.Diamond.resources
+C:\Users\pctla\Desktop\오픈소스과제\Diagram\Diamond\obj\Debug\Diamond.csproj.GenerateResource.cache
+C:\Users\pctla\Desktop\오픈소스과제\Diagram\Diamond\obj\Debug\Diamond.csproj.CoreCompileInputs.cache
+C:\Users\pctla\Desktop\오픈소스과제\Diagram\Diamond\obj\Debug\Diamond.dll
+C:\Users\pctla\Desktop\오픈소스과제\Diagram\Diamond\obj\Debug\Diamond.pdb

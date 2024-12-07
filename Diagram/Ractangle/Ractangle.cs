@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Ractangle
 {
-    public partial class UserControl1: UserControl
+    public partial class Ractangle: UserControl
     {
-        public UserControl1()
+        public Ractangle()
         {
             InitializeComponent();
         }

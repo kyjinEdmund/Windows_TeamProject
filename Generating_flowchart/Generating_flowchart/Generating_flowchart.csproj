@@ -33,8 +33,20 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Diamond">
+      <HintPath>..\..\Diagram\Diamond\bin\Debug\Diamond.dll</HintPath>
+    </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Parallelogram">
+      <HintPath>..\..\Diagram\Parallelogram\bin\Debug\Parallelogram.dll</HintPath>
+    </Reference>
+    <Reference Include="Ractangle">
+      <HintPath>..\..\Diagram\Ractangle\bin\Debug\Ractangle.dll</HintPath>
+    </Reference>
+    <Reference Include="RoundedRactangle">
+      <HintPath>..\..\Diagram\RoundedRactangle\bin\Debug\RoundedRactangle.dll</HintPath>
     </Reference>
     <Reference Include="ScintillaNET">
       <HintPath>..\packages\jacobslusser.ScintillaNET.3.6.3\lib\net40\ScintillaNET.dll</HintPath>
@@ -52,12 +64,28 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CircleButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FlowchartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FlowchartForm.Designer.cs">
+      <DependentUpon>FlowchartForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FlowchartLayoutManager.cs" />
     <Compile Include="FlowchartParser.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
     </Compile>
     <Compile Include="Node.cs" />
     <Compile Include="Program.cs" />

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Diamond
 {
-    public partial class UserControl1: UserControl
+    public partial class Diamond: UserControl
     {
-        public UserControl1()
+        public Diamond()
         {
             InitializeComponent();
         }

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Parallelogram
 {
-    public partial class UserControl1: UserControl
+    public partial class Parallelogran: UserControl
     {
-        public UserControl1()
+        public Parallelogran()
         {
             InitializeComponent();
         }

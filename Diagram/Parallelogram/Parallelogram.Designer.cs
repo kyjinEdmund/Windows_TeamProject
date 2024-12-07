@@ -1,6 +1,6 @@
 ﻿namespace Parallelogram
 {
-    partial class UserControl1
+    partial class Parallelogran
     {
         /// <summary>
         /// 필수 디자이너 변수입니다.
